@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "app.netlify.optimistic_bohr_fc5c22.twa",
+               "sha256_cert_fingerprints": ["SHA256: 58:2C:CC:F4:A4:8E:E4:A2:D2:1A:9A:F9:A2:A7:22:30:DE:11:91:92:02:D3:AC:B8:85:17:07:76:FE:1B:B0:89"] }
+}]
